@@ -24,5 +24,5 @@ streamlit run streamlit_dashboard.py
 
 ## Notes
 
-- `dashboard_app.py` no longer contains Dash UI code.
-- `streamlit_dashboard.py` is the only UI entrypoint.
+- `dashboard_app.py` is the backend data processing code
+- `streamlit_dashboard.py` is the UI entrypoint.
